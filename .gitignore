@@ -1,0 +1,16 @@
+# Libraries (rebuilt with "npm install")
+node_modules
+
+# Build output and logs
+dist
+build.log
+*.log
+
+# SECRET KEYS: never upload these
+.env
+.env.local
+.env.*.local
+
+# Computer-generated files
+.DS_Store
+Thumbs.db
