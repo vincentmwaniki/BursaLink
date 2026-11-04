@@ -1,4 +1,4 @@
--- Bursary Management System (BursaLink) Initial Schema
+a-- Bursary Management System (BursaLink) Initial Schema
 -- Migration: 20231027000000_init_bursalink.sql
 
 -- Enable Extensions
